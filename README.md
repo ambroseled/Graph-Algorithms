@@ -1,5 +1,5 @@
 # Graph-Algorithms
-Implementations of a variety of simple graph algorithms introduced in COSC262 including: 
+Python implementations of a variety of simple graph algorithms introduced in COSC262 including: 
 * Breath First Search
 * Depth First Search 
 * Dijkstra's Algorithm
