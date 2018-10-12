@@ -1,14 +1,25 @@
 # Graph-Algorithms
-Implementations of a variety of simple graph algorithms including: 
+Implementations of a variety of simple graph algorithms introduced in COSC262 including: 
+      * Breath First Search
+      * Depth First Search 
+      * Dijkstra's Algorithm
+      * Floyd's Algortihm
+      * Prim's Algorthim
+      * Counting Sort
+      * Radix Sort
 
 ## Usage
 
-### Usage for each algorithm
+### Breath First Search
 
-### Usage for each algorithm
+### Depth First Search
 
-### Usage for each algorithm
+### Dijkstra's Algorithm
 
-### Usage for each algorithm
+### Floyd's Algortihm
 
-### Usage for each algorithm
+### Prim's Algorthim
+
+### Counting Sort
+
+### Radix Sort
