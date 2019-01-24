@@ -9,7 +9,7 @@ Collection of algorithms written in Python. Includes simple graph theory algorit
 - Dijkstra's Algortihm
 - Floyd's Algorithm
 - Prim's Algorithm
-- Next Vertex helper algorithm
+- Next Vertex helper Algorithm
 - Adjacency List creation
 - Adjacency Matrix creation
 
