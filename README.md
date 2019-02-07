@@ -1,5 +1,5 @@
 # Python-Algorithms
-Collection of algorithms written in Python. Includes simple graph theory algorithms, convex hull computation algorithms, simple base conversion algorithms and simple crptographic ciphers.
+Collection of algorithms written in Python, some written out of interest others were written for assigments at the University of Canterbury. Including simple graph theory algorithms, convex hull computation algorithms, simple base conversion algorithms and simple crptographic ciphers.
 
 ## Graph Algorithms
 - Breadth First Search
